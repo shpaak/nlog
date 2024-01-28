@@ -1,0 +1,14 @@
+C:\Users\Анна\source\repos\Nlog_Pipin\Nlog_Pipin\bin\Debug\Nlog_Pipin.exe.config
+C:\Users\Анна\source\repos\Nlog_Pipin\Nlog_Pipin\bin\Debug\Nlog_Pipin.exe
+C:\Users\Анна\source\repos\Nlog_Pipin\Nlog_Pipin\bin\Debug\Nlog_Pipin.pdb
+C:\Users\Анна\source\repos\Nlog_Pipin\Nlog_Pipin\bin\Debug\NLog.dll
+C:\Users\Анна\source\repos\Nlog_Pipin\Nlog_Pipin\bin\Debug\NLog.xml
+C:\Users\Анна\source\repos\Nlog_Pipin\Nlog_Pipin\obj\Debug\Nlog_Pipin.csproj.AssemblyReference.cache
+C:\Users\Анна\source\repos\Nlog_Pipin\Nlog_Pipin\obj\Debug\WindowsFormsApp.MainForm.resources
+C:\Users\Анна\source\repos\Nlog_Pipin\Nlog_Pipin\obj\Debug\Nlog_Pipin.Properties.Resources.resources
+C:\Users\Анна\source\repos\Nlog_Pipin\Nlog_Pipin\obj\Debug\Nlog_Pipin.csproj.GenerateResource.cache
+C:\Users\Анна\source\repos\Nlog_Pipin\Nlog_Pipin\obj\Debug\Nlog_Pipin.csproj.CoreCompileInputs.cache
+C:\Users\Анна\source\repos\Nlog_Pipin\Nlog_Pipin\obj\Debug\Nlog_Pipin.csproj.CopyComplete
+C:\Users\Анна\source\repos\Nlog_Pipin\Nlog_Pipin\obj\Debug\Nlog_Pipin.exe
+C:\Users\Анна\source\repos\Nlog_Pipin\Nlog_Pipin\obj\Debug\Nlog_Pipin.pdb
+C:\Users\Анна\source\repos\Nlog_Pipin\Nlog_Pipin\bin\Debug\nlog.config
